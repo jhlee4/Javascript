@@ -1,6 +1,6 @@
 
 //클래스 함수
-class Rectangle {
+class Rectangle{
     constructor(height, width) {
       this.height = height;
       this.width = width;
@@ -11,7 +11,7 @@ class Rectangle {
     }
     // Method
     calcArea() {
-      return this.height * this.width;
+      return this .height * this.width;
     }
   }
   
